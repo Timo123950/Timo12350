@@ -1,4 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 My name is Timo van Balen and I'm a software developer/DevOps engineer. I'm from the Netherlands, living in Rotterdam and studying at Techniek College Rotterdam. You can find me on [LinkedIn](https://www.linkedin.com/in/timo-van-balen-01b6231b1/).
 
@@ -16,9 +15,9 @@ My name is Timo van Balen and I'm a software developer/DevOps engineer. I'm from
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timo123950&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Timo123950/Timo123950">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timo123950&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timo123950&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Timo123950/Timo123950">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Timo123950&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Timo123950's GitHub Stats" />
 </a>
